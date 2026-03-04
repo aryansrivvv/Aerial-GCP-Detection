@@ -1,0 +1,2109 @@
+{
+    "test_dataset/test_dataset/AMP Kurnool/Full Area/GCP9/DJI_0239.JPG": {
+        "mark": {
+            "x": 2121.91,
+            "y": 1640.55
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Sitapuri Limestone Mine/MCDR_2024/GCP59/DJI_20240503125521_0121.JPG": {
+        "mark": {
+            "x": 1344.11,
+            "y": 297.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Sitapuri Limestone Mine/MCDR_2024/PGCP-130/DJI_20240502175404_0152.JPG": {
+        "mark": {
+            "x": 2746.77,
+            "y": 299.19
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Sitapuri Limestone Mine/MCDR_2024/GCP62/DJI_20240503162933_0086.JPG": {
+        "mark": {
+            "x": 3098.31,
+            "y": 1349.87
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Sitapuri Limestone Mine/MCDR_2024/GCP30/DJI_20240430133603_0038.JPG": {
+        "mark": {
+            "x": 293.75,
+            "y": 647.09
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Sitapuri Limestone Mine/MCDR_2024/GCP12/DJI_20240429132635_0302.JPG": {
+        "mark": {
+            "x": 3093.89,
+            "y": 997.21
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Sitapuri Limestone Mine/MCDR_2024/GCP48/DJI_20240502181131_0028.JPG": {
+        "mark": {
+            "x": 2790.07,
+            "y": 1669.39
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_1_MCDR23_dataset/PGD-12/2_DJI_0733.JPG": {
+        "mark": {
+            "x": 645.32,
+            "y": 2398.26
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_1_MCDR23_dataset/GCP-22/7_DJI_0799.JPG": {
+        "mark": {
+            "x": 3446.29,
+            "y": 2048.81
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_1_MCDR23_dataset/GCP-13/14_DJI_0823.JPG": {
+        "mark": {
+            "x": 2045.77,
+            "y": 1698.51
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_1_MCDR23_dataset/PGD-10/15_DJI_0855.JPG": {
+        "mark": {
+            "x": 295.78,
+            "y": 298.53
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_1_MCDR23_dataset/GCP-3/12_DJI_0176.JPG": {
+        "mark": {
+            "x": 296.9,
+            "y": 2048.87
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_1_MCDR23_dataset/GCP-3/12_DJI_0175.JPG": {
+        "mark": {
+            "x": 647.91,
+            "y": 2049.56
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_1_MCDR23_dataset/GCP-26/3_DJI_0940.JPG": {
+        "mark": {
+            "x": 1696.39,
+            "y": 2048.94
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_2_MCDR23_dataset/PGD-15/3_DJI_0357.JPG": {
+        "mark": {
+            "x": 1345.69,
+            "y": 2398.49
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/PANDALGUDI_2_MCDR23_dataset/GCP-6/3_DJI_0393.JPG": {
+        "mark": {
+            "x": 1695.5,
+            "y": 1698.31
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/SIVARALPATTI_MCDR23_dataset/GCP-27/14_DJI_0870.JPG": {
+        "mark": {
+            "x": 2397.92,
+            "y": 2399.86
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - PANDALGUDI/SIVARALPATTI_MCDR23_dataset/GCP-21/9_DJI_0912.JPG": {
+        "mark": {
+            "x": 1695.6,
+            "y": 298.44
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/April_2025/GCP6/DJI_20250502114423_0204_D.JPG": {
+        "mark": {
+            "x": 2044.47,
+            "y": 2747.65
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_08_Nov24/GCP4/DJI_20241129110817_0453_D.JPG": {
+        "mark": {
+            "x": 3445.47,
+            "y": 1348.28
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_09_DEC24_Mine_Area/GCP-16A/DJI_20241229111523_0555_D.JPG": {
+        "mark": {
+            "x": 1352.92,
+            "y": 1000.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_5_March24/GCP 3/DJI_20240329122509_0370_mission2.JPG": {
+        "mark": {
+            "x": 1695.02,
+            "y": 1698.1
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_01_Dec23/GCP19/6_1_DJI_0736.JPG": {
+        "mark": {
+            "x": 3167.21,
+            "y": 243.47
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_01_Dec23/GCP28/10_DJI_0528.JPG": {
+        "mark": {
+            "x": 3534.64,
+            "y": 1976.88
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_01_Dec23/GCP25/10_DJI_0517.JPG": {
+        "mark": {
+            "x": 295.53,
+            "y": 298.4
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_04 29-Feb-2024/GCP 8/DJI_20240229135146_0063_D.JPG": {
+        "mark": {
+            "x": 3097.77,
+            "y": 2399.58
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_09_DEC24/GCP-17B/DJI_20241229162828_0189_V.JPG": {
+        "mark": {
+            "x": 1346.57,
+            "y": 2048.93
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_03_04_02_2024/GCP 10/3_DJI_20240203155257_0107_V.JPG": {
+        "mark": {
+            "x": 3094.68,
+            "y": 997.79
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III CG/Survey_6_June_2024/GCP9/DJI_20240628161616_0369_D.JPG": {
+        "mark": {
+            "x": 2105.59,
+            "y": 253.25
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - MV PURAM/Jan_2024_Survey_2/GCP 7/2_4_DJI_0997.JPG": {
+        "mark": {
+            "x": 1695.23,
+            "y": 2048.09
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - MV PURAM/Jan_2024_Survey_2/GCP 3/2_4_DJI_0920.JPG": {
+        "mark": {
+            "x": 3445.24,
+            "y": 998.08
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-01/MCDR_2024/GCP66/71_DJI_0443.JPG": {
+        "mark": {
+            "x": 645.59,
+            "y": 2048.35
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-01/MCDR_2024/GCP81/67_1_DJI_0902.JPG": {
+        "mark": {
+            "x": 2747.84,
+            "y": 1349.82
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-01/MCDR_2024/GCP79/67_1_DJI_0885.JPG": {
+        "mark": {
+            "x": 295.87,
+            "y": 2398.67
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Radiance Karnataka-Korwar/Survey-1/GCP7/DJI_20240506151421_0308_V.JPG": {
+        "mark": {
+            "x": 1344.1,
+            "y": 2747.37
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani GP-III Road/Survey 1/GCP-24/DJI_20241130122051_0116_D.JPG": {
+        "mark": {
+            "x": 2394.33,
+            "y": 2747.56
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine-II/MCDR 2024/GCP107/DJI_20240417143816_0007_V.JPG": {
+        "mark": {
+            "x": 773.12,
+            "y": 540.15
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine-II/MCDR 2024/PGCP118/DJI_20240416110654_0132_V.JPG": {
+        "mark": {
+            "x": 994.54,
+            "y": 2747.73
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/REL Kakamari/WTG Plot_3/GCP1C/DJI_20250305115800_0011_V.JPG": {
+        "mark": {
+            "x": 3444.53,
+            "y": 2747.7
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/HexaClimate/Anjanvihire/Gcp2/DJI_20241211192355_0131_V.JPG": {
+        "mark": {
+            "x": 645.56,
+            "y": 1698.4
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/HexaClimate/Anjanvihire/Gcp1/DJI_20241211191829_0043_V.JPG": {
+        "mark": {
+            "x": 1694.07,
+            "y": 2747.33
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/HexaClimate/Anjanvihire/Gcp7/DJI_20241212144058_0009_V.JPG": {
+        "mark": {
+            "x": 3443.9,
+            "y": 1697.21
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Reddipalayam Limestone Mine(ML-2)/MCDR 2025/ML2PGCP3/DJI_20250428104855_0050_D.JPG": {
+        "mark": {
+            "x": 1696.12,
+            "y": 2748.56
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Blupine_KA_Somanathalli/Survey 1/GCP1/DJI_20250117164012_0114_V.JPG": {
+        "mark": {
+            "x": 295.1,
+            "y": 298.04
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri KP Mines/MCDR-2024/GCP_14/DJI_20240507102748_0211_V.JPG": {
+        "mark": {
+            "x": 2457.49,
+            "y": 254.24
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri KP Mines/MCDR-2024/GCP_14/DJI_20240507102751_0212_V.JPG": {
+        "mark": {
+            "x": 2460.47,
+            "y": 2699.09
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri KP Mines/MCDR-2024/GCP_4/DJI_20240505142846_0339_V.JPG": {
+        "mark": {
+            "x": 293.95,
+            "y": 2397.25
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vedanta GOA Bicholim/Feb 2025/GCP33/DJI_20250209101516_0069_V.JPG": {
+        "mark": {
+            "x": 1346.26,
+            "y": 2748.78
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vedanta GOA Bicholim/Feb 2025/GCP12/DJI_20250209165918_0204_V.JPG": {
+        "mark": {
+            "x": 3444.81,
+            "y": 647.9
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vedanta GOA Bicholim/MCDR 2024/GCP29/24_4_DJI_0870.JPG": {
+        "mark": {
+            "x": 457.81,
+            "y": 156.5
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Vedanta GOA Bicholim/MCDR 2024/GCP18/14_3_DJI_0068.JPG": {
+        "mark": {
+            "x": 2495.65,
+            "y": 1614.37
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Vedanta GOA Bicholim/MCDR 2024/GCP20/14_3_DJI_0187.JPG": {
+        "mark": {
+            "x": 3200.01,
+            "y": 210.85
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Vedanta GOA Bicholim/MCDR 2024/GCP07/27_5_DJI_0536.JPG": {
+        "mark": {
+            "x": 411.92,
+            "y": 199.51
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Vedanta GOA Bicholim/MCDR 2024/GCP23/19_4_DJI_0245.JPG": {
+        "mark": {
+            "x": 1095.12,
+            "y": 211.91
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Radiance Achanur/Area-2_Balan/GCP 6/DJI_0461.JPG": {
+        "mark": {
+            "x": 3444.14,
+            "y": 297.4
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Radiance Achanur/Area-2_Balan/GCP 1/DJI_0764.JPG": {
+        "mark": {
+            "x": 1710.75,
+            "y": 1690.89
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Budgauna Limestone Mine/MCDR 2024/GCP-07/DJI_20240504104514_0347_V.JPG": {
+        "mark": {
+            "x": 3443.51,
+            "y": 296.9
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Budgauna Limestone Mine/MCDR 2024/GCP-07/DJI_20240504104159_0285_V.JPG": {
+        "mark": {
+            "x": 3093.99,
+            "y": 2047.28
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Budgauna Limestone Mine/MCDR 2024/GCP-03/DJI_20240504103704_0196_V.JPG": {
+        "mark": {
+            "x": 1693.69,
+            "y": 2747.03
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Mining Area Demo/2023_dataset/GCP2/DJI_0922_si_134220645.JPG": {
+        "mark": {
+            "x": 729.19,
+            "y": 1979.41
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Mining Area Demo/2023_dataset/GCP2/DJI_0919_si_3775521486.JPG": {
+        "mark": {
+            "x": 1098.38,
+            "y": 912.63
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Mining Area Demo/2023_dataset/GCP3/DJI_0468_si_1175154689.JPG": {
+        "mark": {
+            "x": 2044.8,
+            "y": 1697.86
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Mining Area Demo/2023_dataset/GCP7/DJI_0579_si_560033556.JPG": {
+        "mark": {
+            "x": 3445.8,
+            "y": 1698.44
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Mining Area Demo/2023_dataset/Temporary GCP 18/DJI_0791_si_2199498624.JPG": {
+        "mark": {
+            "x": 384.44,
+            "y": 1972.11
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Mining Area Demo/2023_dataset/Temporary GCP 18/DJI_0766_si_627368138.JPG": {
+        "mark": {
+            "x": 3620.24,
+            "y": 492.03
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Blupine Asalgaon/Survey_01/gcp3/DJI_20250405163431_0029_V.JPG": {
+        "mark": {
+            "x": 1694.9,
+            "y": 1697.81
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Blupine Asalgaon/Survey_01/gcp1/DJI_20250405145122_0240_V.JPG": {
+        "mark": {
+            "x": 3443.82,
+            "y": 997.14
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Kesla Limestone Mine/MCDR 2024/GCP5/14_DJI_0841 (3).JPG": {
+        "mark": {
+            "x": 995.2,
+            "y": 298.21
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Kesla Limestone Mine/MCDR_2023_dataset/BASE/2_DJI_0430.JPG": {
+        "mark": {
+            "x": 2394.6,
+            "y": 997.56
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Ariyalur RPM/Dec23_Survey/GCP10/2_DJI_0161.JPG": {
+        "mark": {
+            "x": 2744.81,
+            "y": 2397.88
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Ariyalur RPM/Dec23_Survey/GCP10/2_DJI_0162.JPG": {
+        "mark": {
+            "x": 295.33,
+            "y": 1698.25
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Ariyalur RPM/MCDR_2023_dataset/SSCP-6E/6_DJI_0660.JPG": {
+        "mark": {
+            "x": 3445.53,
+            "y": 2398.3
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Jitpur Godda/Jitpur Proposed Road/GCP 04/3_DJI_0936.JPG": {
+        "mark": {
+            "x": 294.27,
+            "y": 1697.5
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Guma Limestone Mine-02/MCDR2024_GUMMA_02/GCP11/DJI_20240423093704_0174_V.JPG": {
+        "mark": {
+            "x": 3093.99,
+            "y": 997.27
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Guma Limestone Mine-02/MCDR2024_GUMMA_02/GCP13/DJI_20240423101623_0336_V.JPG": {
+        "mark": {
+            "x": 1694.49,
+            "y": 647.67
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Sarai Block/March2025/GCP32/DJI_20250309122046_0312_D.JPG": {
+        "mark": {
+            "x": 294.0,
+            "y": 1347.29
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Sarai Block/March2025/GCP23/DJI_20250311160527_0474_D.JPG": {
+        "mark": {
+            "x": 1695.57,
+            "y": 1698.41
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Cleanmax_Haryana_Isharwal/Survey_01/GCP 12/DJI_20250112132102_0016_V.JPG": {
+        "mark": {
+            "x": 1344.59,
+            "y": 2747.71
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Cleanmax_Haryana_Isharwal/Survey_01/GCP 2/DJI_20250113115435_0132_V.JPG": {
+        "mark": {
+            "x": 3443.57,
+            "y": 2746.94
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Capital/New Capital/GCP1/100_0004_0238.JPG": {
+        "mark": {
+            "x": 1414.91,
+            "y": 594.05
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/RAMCO Ariyalur VPD/MCDR_2023_dataset/GCP-02/1_DJI_0752.JPG": {
+        "mark": {
+            "x": 1344.48,
+            "y": 297.64
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Talabira/Survey_02/GCP-1/DJI_20241105155655_0324_D.JPG": {
+        "mark": {
+            "x": 1344.1,
+            "y": 2047.38
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Talabira/Survey_02/GCP-2/DJI_20241106154814_0201_D.JPG": {
+        "mark": {
+            "x": 645.44,
+            "y": 2048.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Talabira/Survey_02/GCP-16/DJI_20241104135148_0655_D.JPG": {
+        "mark": {
+            "x": 996.6,
+            "y": 2749.09
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Talabira/Survey 1/GCP  16/DJI_20240706130533_0188_D.JPG": {
+        "mark": {
+            "x": 3489.48,
+            "y": 968.97
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Adani Talabira/Survey 1/GCP 27/DJI_20240703152323_0441_D.JPG": {
+        "mark": {
+            "x": 3096.08,
+            "y": 1698.73
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Sadhera Limestone Mine/MCDR2024/GCP18/DJI_20240518082035_0054_V.JPG": {
+        "mark": {
+            "x": 2466.18,
+            "y": 242.4
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Sadhera Limestone Mine/MCDR2024/GCP12/DJI_20240517155937_0143_V.JPG": {
+        "mark": {
+            "x": 1693.84,
+            "y": 2747.16
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RCML/Survey 02/GCP02/DJI_20250228103353_0744_D.JPG": {
+        "mark": {
+            "x": 995.93,
+            "y": 2748.6
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RCML/Survey 02/GCP17/DJI_20250227132238_0474_D.JPG": {
+        "mark": {
+            "x": 2393.78,
+            "y": 2747.12
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RCML/Survey 02/GCP06/DJI_20250227095806_0358_D.JPG": {
+        "mark": {
+            "x": 3444.73,
+            "y": 2047.72
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RCML/Feb_2025/GCP32/DJI_20250206162419_0098_D.JPG": {
+        "mark": {
+            "x": 363.44,
+            "y": 246.28
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/RCML/Feb_2025/GCP39/DJI_20250209105901_0098_D.JPG": {
+        "mark": {
+            "x": 2043.52,
+            "y": 2046.89
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RCML/Feb_2025/GCP47/DJI_20250207160743_0410_D.JPG": {
+        "mark": {
+            "x": 3445.7,
+            "y": 2398.51
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RCML/Survey04/GCP5/DJI_20250429165205_0038_D.JPG": {
+        "mark": {
+            "x": 2745.99,
+            "y": 2398.81
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM South Band/MCDR 2024/GCP5/DJI_0247.JPG": {
+        "mark": {
+            "x": 294.82,
+            "y": 2397.9
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vedanta Chitradurga Monthly Volume/POC Feb24/GCP-06/1_DJI_20240221144751_0088_V.JPG": {
+        "mark": {
+            "x": 2044.75,
+            "y": 997.77
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vedanta Chitradurga Monthly Volume/Section 14 Top May 24/AGCP-1/DJI_20240523131638_0120_V.JPG": {
+        "mark": {
+            "x": 2393.85,
+            "y": 1347.16
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Hinauti Limestone Mine/Feb 2025/GCP9/DJI_20250207101156_0297_V.JPG": {
+        "mark": {
+            "x": 295.29,
+            "y": 298.17
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Hinauti Limestone Mine/Feb 2025/GCP14/DJI_20250207143839_0199_V.JPG": {
+        "mark": {
+            "x": 295.54,
+            "y": 298.39
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Hinauti Limestone Mine/MCDR_2024/GCP11/DJI_20240424120808_0094_V.JPG": {
+        "mark": {
+            "x": 2395.91,
+            "y": 2398.56
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Alathiyur South of South/MCDR2024/GCP11/2_DJI_0841.JPG": {
+        "mark": {
+            "x": 369.28,
+            "y": 2343.95
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/UTCL UNCL Additional Area/Survey-1/GCP 67/DJI_20240422135923_0228_V.JPG": {
+        "mark": {
+            "x": 295.18,
+            "y": 2748.14
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/UTCL UNCL Additional Area/Survey-1/GCP-26/DJI_20240426101549_0305_V.JPG": {
+        "mark": {
+            "x": 294.81,
+            "y": 2747.9
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Kovaya Limestone Mine/MCDR 2024/GCP-6/39_2_DJI_0633.JPG": {
+        "mark": {
+            "x": 2441.0,
+            "y": 1669.19
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Kovaya Limestone Mine/MCDR 2024/GCP-61/2_DJI_0263.JPG": {
+        "mark": {
+            "x": 1416.39,
+            "y": 245.38
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Kovaya Limestone Mine/MCDR 2024/GCP-33/34_4_DJI_0498.JPG": {
+        "mark": {
+            "x": 2443.06,
+            "y": 2365.72
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Kovaya Limestone Mine/MCDR 2024/GCP-72/11_5_DJI_0173.JPG": {
+        "mark": {
+            "x": 3191.52,
+            "y": 1270.91
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Kovaya Limestone Mine/MCDR 2024/GCP-10/10_6_DJI_0008.JPG": {
+        "mark": {
+            "x": 3508.7,
+            "y": 2352.47
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Blupine Malsan & Madka Land-Tharad/Survey 1/gcp 01/DJI_20250320163415_0335_V.JPG": {
+        "mark": {
+            "x": 2045.62,
+            "y": 2048.34
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Blupine Malsan & Madka Land-Tharad/Survey 1/gcp 07/DJI_20250320151642_0483_V.JPG": {
+        "mark": {
+            "x": 3444.95,
+            "y": 997.96
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhaislana Limestone Mine/MCDR 2024/GCP-2/8_DJI_0201.JPG": {
+        "mark": {
+            "x": 1343.65,
+            "y": 297.02
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhaislana Limestone Mine/MCDR 2024/GCP-17/24_DJI_0392 (2).JPG": {
+        "mark": {
+            "x": 1695.05,
+            "y": 648.04
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/UTCL-East-Century Cement Limestone Mine/MCDR 2024/G22/30_DJI_0241.JPG": {
+        "mark": {
+            "x": 1049.66,
+            "y": 1308.63
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/UTCL-East-Century Cement Limestone Mine/MCDR_2023_dataset/14PL/7_DJI_0339 (2).JPG": {
+        "mark": {
+            "x": 644.73,
+            "y": 1347.84
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/UTCL-East-Century Cement Limestone Mine/MCDR_2023_dataset/20GCP/2_DJI_0981.JPG": {
+        "mark": {
+            "x": 3094.85,
+            "y": 297.9
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/UTCL-Central-Julgul&Balua Limestone Mine/MCDR_2024/GCP-65/44_DJI_0165.JPG": {
+        "mark": {
+            "x": 294.38,
+            "y": 2397.58
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/UTCL-Central-Julgul&Balua Limestone Mine/MCDR_2024/GCP-37/39_39_DJI_0963 (2).JPG": {
+        "mark": {
+            "x": 3153.0,
+            "y": 953.02
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/UTCL-Central-Julgul&Balua Limestone Mine/MCDR_2024/GCP-23/17_17_DJI_0351.JPG": {
+        "mark": {
+            "x": 3094.87,
+            "y": 297.96
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/UTCL-Central-Julgul&Balua Limestone Mine/MCDR_2024/GCP-13/9_9_DJI_0798 (2).JPG": {
+        "mark": {
+            "x": 1102.61,
+            "y": 557.34
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/UTCL-Central-Julgul&Balua Limestone Mine/MCDR_2024/GCP-66/34_34_DJI_0119.JPG": {
+        "mark": {
+            "x": 1345.24,
+            "y": 298.23
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM Budawada/MCDR 2024/GCP2/DJI_0448_1.JPG": {
+        "mark": {
+            "x": 1779.57,
+            "y": 2332.49
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco JPM Budawada/MCDR 2024/GCP12A/DJI_0452_1.JPG": {
+        "mark": {
+            "x": 390.6,
+            "y": 921.84
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco JPM Budawada/MCDR_2023_dataset/GCP-09_A/9_DJI_0872.JPG": {
+        "mark": {
+            "x": 2801.41,
+            "y": 1309.81
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Jai Surjana Mines BlockB/MCDR2024/GCP03A/21_DJI_0522.JPG": {
+        "mark": {
+            "x": 995.24,
+            "y": 2048.02
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - SIVARALAPATTI/Jan_2024_SVP_1&2/GCP20/6_DJI_0375.JPG": {
+        "mark": {
+            "x": 645.02,
+            "y": 998.05
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO RR NAGAR - SIVARALAPATTI/Jan_2024_SVP_1&2/GCP14/5_DJI_0107.JPG": {
+        "mark": {
+            "x": 3444.88,
+            "y": 297.94
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Kukurdhi Limestone Mine/MCDR 2024_new_dataset/GCP5/DJI_20240415111905_0195_V.JPG": {
+        "mark": {
+            "x": 1344.08,
+            "y": 2047.35
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Kukurdhi Limestone Mine/MCDR 2024_new_dataset/GCP10/DJI_20240414144830_0217_V.JPG": {
+        "mark": {
+            "x": 3094.45,
+            "y": 2397.63
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Kukurdhi Limestone Mine/MCDR 2024_new_dataset/GCP13/DJI_20240415124840_0058_V.JPG": {
+        "mark": {
+            "x": 3443.87,
+            "y": 1347.18
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Ariyalur USBS/MCDR_2023_dataset/GCP-04/2_DJI_0112.JPG": {
+        "mark": {
+            "x": 295.48,
+            "y": 2398.37
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Majhgawan Extension Limestone Mine/Feb 2025/GCP1 AREA 2/DJI_20250205152224_0093_V.JPG": {
+        "mark": {
+            "x": 3445.55,
+            "y": 2748.38
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Majhgawan Extension Limestone Mine/Feb 2025/GCP 3/DJI_20250205113906_0056_V.JPG": {
+        "mark": {
+            "x": 1344.69,
+            "y": 2747.78
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Majhgawan Extension Limestone Mine/MCDR_2024/GCP42/DJI_20240424121106_0150_V.JPG": {
+        "mark": {
+            "x": 993.56,
+            "y": 646.94
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Majhgawan Extension Limestone Mine/MCDR_2024/GCP43/DJI_20240424151602_0115_V.JPG": {
+        "mark": {
+            "x": 3094.43,
+            "y": 1697.66
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Rajashree Cement Limestone Mine/MCDR_2024/GCP39/23_DJI_0311 (3).JPG": {
+        "mark": {
+            "x": 2744.62,
+            "y": 647.7
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Rajashree Cement Limestone Mine/MCDR_2024/GCP02_A/37_DJI_0815.JPG": {
+        "mark": {
+            "x": 2121.03,
+            "y": 1989.54
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri CP mines/MCDR 2024/GCP3/DJI_20240415151435_0289_V.JPG": {
+        "mark": {
+            "x": 2044.78,
+            "y": 2397.89
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri CP mines/MCDR 2024/GCP24/DJI_20240417072903_0205_V.JPG": {
+        "mark": {
+            "x": 645.0,
+            "y": 298.03
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-02/MCDR_2024/GCP24A/21_DJI_0076.JPG": {
+        "mark": {
+            "x": 1762.73,
+            "y": 2347.09
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-02/MCDR_2024/GCP19A/24_DJI_0380.JPG": {
+        "mark": {
+            "x": 2097.66,
+            "y": 1662.14
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-02/MCDR_2024/GCP3/7_DJI_0450.JPG": {
+        "mark": {
+            "x": 994.49,
+            "y": 297.67
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-02/MCDR_2024/GCP45/53_DJI_0113.JPG": {
+        "mark": {
+            "x": 1345.45,
+            "y": 2398.27
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-02/MCDR_2024/GCP15/14_DJI_0521.JPG": {
+        "mark": {
+            "x": 2515.34,
+            "y": 1947.44
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Bhadanpur Limestone Mine-02/MCDR_2024/GCP41/40_DJI_0749.JPG": {
+        "mark": {
+            "x": 1344.5,
+            "y": 2397.65
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Ariyalur PNR/PNRWEST_MCDR23_dataset/GCP-05/1_DJI_0863.JPG": {
+        "mark": {
+            "x": 3094.47,
+            "y": 1347.65
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Cleanmax Saraipalli/Saraipalli_Site1/GCP-1/DJI_20250131151631_0054_V.JPG": {
+        "mark": {
+            "x": 1343.84,
+            "y": 297.17
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Cleanmax Saraipalli/Saraipalli_Site1/GCP-4/DJI_20250131154740_0069_V.JPG": {
+        "mark": {
+            "x": 643.88,
+            "y": 297.2
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/231129_CTD/231129_CTD_GDA94/230225gcp11/DJI_20231129114405_0532.JPG": {
+        "mark": {
+            "x": 394.2,
+            "y": 213.64
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/231129_CTD/231129_CTD_GDA94/230225gcp11/.ipynb_checkpoints/DJI_20231129114405_0532-checkpoint.JPG": {
+        "mark": {
+            "x": 394.2,
+            "y": 213.64
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/231129_CTD/231129_CTD_GDA94/GCP9/DJI_20231129125237_0191.JPG": {
+        "mark": {
+            "x": 1441.64,
+            "y": 1968.44
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/UTCL-Central-Sidhi Cement Works/Majgawan_Ls_54_Active_Area/GCP01/1_DJI_0402.JPG": {
+        "mark": {
+            "x": 644.59,
+            "y": 1347.74
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Borkhedi Nayagaon Limestone Mine/MCDR_2024/GCP18/DJI_20240430154707_0079_V.JPG": {
+        "mark": {
+            "x": 2045.06,
+            "y": 998.1
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Borkhedi Nayagaon Limestone Mine/MCDR_2024/GCP20/DJI_20240430165256_0061_V.JPG": {
+        "mark": {
+            "x": 294.8,
+            "y": 2747.94
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Borkhedi Nayagaon Limestone Mine/MCDR_2024/GCP21/DJI_20240501083840_0063_V.JPG": {
+        "mark": {
+            "x": 2045.99,
+            "y": 2398.76
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Borkhedi Nayagaon Limestone Mine/MCDR_2024/GCP08/DJI_20240428162324_0036_V.JPG": {
+        "mark": {
+            "x": 2744.5,
+            "y": 2397.69
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/NB2_MCDR2024/GCP3/DJI_0101.JPG": {
+        "mark": {
+            "x": 645.55,
+            "y": 648.21
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/NB2_MCDR2024/GCP1/DJI_0884.JPG": {
+        "mark": {
+            "x": 644.25,
+            "y": 297.48
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/JPM_NB-MCDR23_dataset/GCP-23/5_DJI_0718.JPG": {
+        "mark": {
+            "x": 293.72,
+            "y": 1697.06
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/JPM_NB-MCDR23_dataset/GCP-28/3_DJI_0498.JPG": {
+        "mark": {
+            "x": 644.41,
+            "y": 647.6
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/JPM_NB-MCDR23_dataset/GCP-10/15_DJI_0108.JPG": {
+        "mark": {
+            "x": 2044.13,
+            "y": 297.39
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/JPM_NB3-MCDR23_dataset/GCP2/1_DJI_0649.JPG": {
+        "mark": {
+            "x": 3094.3,
+            "y": 2397.52
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/NB1_MCDR2024/GCP_9/DJI_20240515120224_0031_V.JPG": {
+        "mark": {
+            "x": 3094.59,
+            "y": 2747.69
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/NB1_MCDR2024/P_GCP_13/DJI_20240517152619_0210_V.JPG": {
+        "mark": {
+            "x": 3443.93,
+            "y": 297.23
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/NB_01_Dec23/GCP6/3_DJI_0531.JPG": {
+        "mark": {
+            "x": 294.81,
+            "y": 297.82
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM NB/NB_01_Dec23/GCP6/2_DJI_0419.JPG": {
+        "mark": {
+            "x": 1068.51,
+            "y": 943.84
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco Alathiyur Tular/MCDR_2024/PGCP4/6_1_DJI_0091.JPG": {
+        "mark": {
+            "x": 995.87,
+            "y": 1348.48
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Alathiyur Tular/MCDR_2023_dataset/GCP-16/4_DJI_0809.JPG": {
+        "mark": {
+            "x": 2394.6,
+            "y": 997.73
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine/MCDR_2024/GCP94/DJI_20240421132221_0093_V.JPG": {
+        "mark": {
+            "x": 349.86,
+            "y": 2710.73
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine/MCDR_2024/GCP109/DJI_20240417155228_0004_V.JPG": {
+        "mark": {
+            "x": 3444.46,
+            "y": 2747.65
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine/MCDR_2024/GCP81/DJI_20240423115849_0095_V.JPG": {
+        "mark": {
+            "x": 1344.98,
+            "y": 2398.02
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine/MCDR_2024/GCP91/DJI_20240423090250_0126_V.JPG": {
+        "mark": {
+            "x": 995.79,
+            "y": 2747.98
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Majhgawan Limestone Mine/MCDR_2024/GCP66/DJI_20240427085637_0066_V.JPG": {
+        "mark": {
+            "x": 644.47,
+            "y": 297.67
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Majhgawan Limestone Mine/MCDR_2024/GCP65/DJI_20240426154102_0245_V.JPG": {
+        "mark": {
+            "x": 2393.64,
+            "y": 2747.01
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bandhi Ghorwai Limestone Mine/MCDR2024/GCP03/DJI_20240524124307_0024_V.JPG": {
+        "mark": {
+            "x": 293.79,
+            "y": 297.11
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Bandhi Ghorwai Limestone Mine/MCDR2024/GCP01/DJI_20240524120239_0158_V.JPG": {
+        "mark": {
+            "x": 1694.04,
+            "y": 2747.32
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Wangapalli Station-Bhongir Station/S1/gcp24/DJI_20250424150653_0147_D.JPG": {
+        "mark": {
+            "x": 3096.46,
+            "y": 2748.99
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Wangapalli Station-Bhongir Station/S1/GCP13/DJI_20250424100415_0030_D.JPG": {
+        "mark": {
+            "x": 2394.35,
+            "y": 1347.57
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Arghat Limestone Mine/MCDR 2024/GCP-10/DJI_20240423111628_0159_V.JPG": {
+        "mark": {
+            "x": 2043.66,
+            "y": 997.02
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Adani Kurmitar/Survey 1/GCP-23/DJI_20241109155557_0116_D.JPG": {
+        "mark": {
+            "x": 1424.62,
+            "y": 1635.67
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Adani Kurmitar/Survey 1/GCP-11/DJI_20241108124718_0262_D.JPG": {
+        "mark": {
+            "x": 3132.63,
+            "y": 1319.51
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Adani Kurmitar/Survey 1/GCP-16/DJI_20241109165138_0074_D.JPG": {
+        "mark": {
+            "x": 436.97,
+            "y": 172.72
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco Kanchipura/Survey 1/GCP5/DJI_20241204143237_0126_V.JPG": {
+        "mark": {
+            "x": 645.36,
+            "y": 1348.24
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Kanchipura/Survey 1/GCP4/DJI_20241204193318_0043_V.JPG": {
+        "mark": {
+            "x": 2811.13,
+            "y": 1647.32
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/T418/DJI_20250324101827_0079.JPG": {
+        "mark": {
+            "x": 2394.24,
+            "y": 2397.5
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/657/DJI_20250324133208_0150.JPG": {
+        "mark": {
+            "x": 2393.85,
+            "y": 297.17
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/g303p370/DJI_20250322131258_0096.JPG": {
+        "mark": {
+            "x": 2743.56,
+            "y": 646.93
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/T374/DJI_20250322132846_0050.JPG": {
+        "mark": {
+            "x": 293.8,
+            "y": 297.12
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/536/DJI_20250324115929_0092.JPG": {
+        "mark": {
+            "x": 993.92,
+            "y": 297.23
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/g21p251/DJI_20250323102536_0117.JPG": {
+        "mark": {
+            "x": 294.03,
+            "y": 647.31
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/T415/DJI_20250322124600_0032.JPG": {
+        "mark": {
+            "x": 3443.97,
+            "y": 997.28
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/24g212/DJI_20250323111907_0098.JPG": {
+        "mark": {
+            "x": 1693.89,
+            "y": 997.19
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/g16p812/DJI_20250319113052_0026.JPG": {
+        "mark": {
+            "x": 2394.08,
+            "y": 647.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/814/DJI_20250325112503_0016.JPG": {
+        "mark": {
+            "x": 3444.03,
+            "y": 997.31
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/g19p569/DJI_20250321114644_0075.JPG": {
+        "mark": {
+            "x": 293.97,
+            "y": 1347.26
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-2/T377/DJI_20250324095622_0055.JPG": {
+        "mark": {
+            "x": 643.95,
+            "y": 997.24
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/T1292/DJI_20250315132749_0101.JPG": {
+        "mark": {
+            "x": 1695.1,
+            "y": 2397.43
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/1456/DJI_20250315133942_0035.JPG": {
+        "mark": {
+            "x": 2043.93,
+            "y": 2397.22
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/816/DJI_20250325111759_0118.JPG": {
+        "mark": {
+            "x": 2044.09,
+            "y": 1697.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/g22p773/DJI_20250319120742_0171.JPG": {
+        "mark": {
+            "x": 3443.85,
+            "y": 2047.17
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/1373/DJI_20250315134301_0066.JPG": {
+        "mark": {
+            "x": 2044.21,
+            "y": 297.46
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/1333/DJI_20250315142739_0013.JPG": {
+        "mark": {
+            "x": 1344.07,
+            "y": 647.34
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/777/DJI_20250325104037_0114.JPG": {
+        "mark": {
+            "x": 2744.19,
+            "y": 647.45
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/1293/DJI_20250316095929_0024.JPG": {
+        "mark": {
+            "x": 293.97,
+            "y": 997.27
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/1455/DJI_20250316110222_0147.JPG": {
+        "mark": {
+            "x": 2744.15,
+            "y": 1347.42
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/T1290/DJI_20250314144800_0050.JPG": {
+        "mark": {
+            "x": 2743.83,
+            "y": 997.15
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Egypt-New Capital City/New_Capital_Phase3-Part-1/g15p849/DJI_20250319102444_0026.JPG": {
+        "mark": {
+            "x": 1693.89,
+            "y": 297.21
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Persoda Limestone & Dolomite Mine/MCDR2024/GCP44/DJI_20240523094108_0202_V.JPG": {
+        "mark": {
+            "x": 294.17,
+            "y": 2747.42
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Guma Limestone Mine-01/MCDR 2024/GCP3/DJI_20240420073832_0096_V.JPG": {
+        "mark": {
+            "x": 293.99,
+            "y": 2747.28
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/ADANI PEKB Chattisgharh/PEKB_FullArea/GCP 23/DJI_20240401145832_0323_mission6salhi.JPG": {
+        "mark": {
+            "x": 2043.58,
+            "y": 1696.95
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/ADANI PEKB Chattisgharh/Stock pile area/GCP 42/DJI_20240330133804_0249_patch.JPG": {
+        "mark": {
+            "x": 367.47,
+            "y": 942.49
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/ADANI PEKB Chattisgharh/Survey_02/GCP-9/DJI_20241030125347_0129_D.JPG": {
+        "mark": {
+            "x": 2744.69,
+            "y": 2747.68
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/ADANI PEKB Chattisgharh/Survey_02/GCP-7/DJI_20241030131233_0692_D.JPG": {
+        "mark": {
+            "x": 293.9,
+            "y": 2747.2
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/ADANI PEKB Chattisgharh/Survey_02/GCP-19/DJI_20241030161106_0038_D.JPG": {
+        "mark": {
+            "x": 2745.86,
+            "y": 2748.69
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Cleanmax UP LIdar/Survey_01/B1/DJI_20240427145959_0186_D.JPG": {
+        "mark": {
+            "x": 2394.54,
+            "y": 2747.7
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/AMP-BURUGULA/Survey_1_dataset/GCP35/11_2_DJI_0246.JPG": {
+        "mark": {
+            "x": 1125.01,
+            "y": 187.24
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/AMP-BURUGULA/Survey_1_dataset/GCP50/15_4_DJI_0577.JPG": {
+        "mark": {
+            "x": 2155.1,
+            "y": 209.07
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/AMP-BURUGULA/Survey_1_dataset/GCP3/1_DJI_0692.JPG": {
+        "mark": {
+            "x": 749.28,
+            "y": 212.83
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Radiance Sunrise Tamilnadu/Survey_1/GCP2/DJI_20240502113720_0029_V.JPG": {
+        "mark": {
+            "x": 295.56,
+            "y": 998.32
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Tandiberi Limestone Mine/MCDR 2024/GCP-04/DJI_20240420163456_0033_V.JPG": {
+        "mark": {
+            "x": 3445.7,
+            "y": 998.52
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/KlassCorp Solutions Hydrology/Survey_01/GCP8/DJI_20240508102440_0014_V.JPG": {
+        "mark": {
+            "x": 3443.99,
+            "y": 997.28
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Veerachipalayam 87,878,7947 and Palakapalayam/Survey 1/GCP9/DJI_20250419124147_0102_V.JPG": {
+        "mark": {
+            "x": 998.47,
+            "y": 2050.26
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/CleanMax Kolhapur/Survey-1-M2Pro/gcp 65/2_DJI_0501.JPG": {
+        "mark": {
+            "x": 3194.62,
+            "y": 216.37
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Amli Limestone Mine/MCDR_2024/GCP-69/DJI_20240417164154_0056_V.JPG": {
+        "mark": {
+            "x": 3446.92,
+            "y": 2399.04
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Tadipatri Kotapadu Mine/Survey-1/GCP_7/DJI_20240504104408_0130_V.JPG": {
+        "mark": {
+            "x": 993.73,
+            "y": 2747.07
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Tadipatri Kotapadu Mine/Survey-1/GCP_8/DJI_20240504093947_0149_V.JPG": {
+        "mark": {
+            "x": 644.17,
+            "y": 647.44
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Tadipatri Kotapadu Mine/Survey-1/GCP_2-P/DJI_20240430104130_0127_V.JPG": {
+        "mark": {
+            "x": 3444.01,
+            "y": 297.3
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Tadipatri Kotapadu Mine/Survey-1/GCP_32/DJI_20240503102759_0143_V.JPG": {
+        "mark": {
+            "x": 294.64,
+            "y": 297.81
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RAMCO Tadipatri Kotapadu Mine/Survey-1/GCP_23/DJI_20240502105116_0325_V.JPG": {
+        "mark": {
+            "x": 294.35,
+            "y": 997.58
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Deora Limestone Mine/MCDR_2024/GCP02/DJI_20240419171020_0287.JPG": {
+        "mark": {
+            "x": 3094.62,
+            "y": 1697.78
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/CSTEP BENGALURU EXTN/EXTN PROCESS_07/Z21_GCP9/DJI_20250312112743_0016_V.JPG": {
+        "mark": {
+            "x": 1802.77,
+            "y": 1607.48
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/CSTEP BENGALURU EXTN/EXTN PROCESS_07/Z21_GCP6/DJI_20250312152916_0073_V.JPG": {
+        "mark": {
+            "x": 2509.34,
+            "y": 553.64
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Seashell Ras el Hekma/Survey 3/GCP18/DJI_20240605112104_0109.JPG": {
+        "mark": {
+            "x": 2044.46,
+            "y": 2046.34
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Seashell Ras el Hekma/Survey 3/GCP19/DJI_20240605111548_0006.JPG": {
+        "mark": {
+            "x": 1344.44,
+            "y": 1347.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Oriano - Parbhani Maharashtra/Survey_01/gcp7a/4_DJI_0615.JPG": {
+        "mark": {
+            "x": 1346.9,
+            "y": 2049.18
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/IMFA/sukinda Mines_May2024/GCP 6/12_1_DJI_0607.JPG": {
+        "mark": {
+            "x": 1695.21,
+            "y": 1698.05
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/IMFA/sukinda Mines_May2024/GCP 1/11_1_DJI_0190.JPG": {
+        "mark": {
+            "x": 360.72,
+            "y": 1647.77
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/CSTEP_THRISSUR/ZONE_02/Z2GCP15/Zone 2_9_B_811.JPG": {
+        "mark": {
+            "x": 2173.49,
+            "y": 1940.08
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/CSTEP_THRISSUR/ZONE_02/Z2GCP36/Zone 2_1_B_33.JPG": {
+        "mark": {
+            "x": 3566.81,
+            "y": 896.07
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/CSTEP_THRISSUR/ZONE_02/Z2GCP43/Zone 2_2_C_245.JPG": {
+        "mark": {
+            "x": 759.32,
+            "y": 199.96
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco Alathiyur South/Alathiyur_9984D_2023_dataset/GCP-07_RE/7_DJI_0324.JPG": {
+        "mark": {
+            "x": 1694.81,
+            "y": 997.86
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Alathiyur South/988_4D2_MCDR2024/SGCP4/1_1_DJI_0233.JPG": {
+        "mark": {
+            "x": 295.54,
+            "y": 298.34
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Viliperinjiyam Limestone Mine(ML-1)/MCDR 2024/NGCP9/DJI_20240424125033_0029_V.JPG": {
+        "mark": {
+            "x": 3095.89,
+            "y": 2398.56
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Zelestra/Chitrod/gcp33/DJI_20241227112548_0587_V.JPG": {
+        "mark": {
+            "x": 3443.7,
+            "y": 647.06
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Zelestra/Chitrod/gcp44/DJI_20241228120541_0059_V.JPG": {
+        "mark": {
+            "x": 3444.99,
+            "y": 1347.97
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Zelestra/Chitrod/GCP 28/DJI_20241228165331_0218_V.JPG": {
+        "mark": {
+            "x": 1346.47,
+            "y": 648.62
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/JSW_Himachal/Survey_01/GCP2/1_DJI_0104.JPG": {
+        "mark": {
+            "x": 671.62,
+            "y": 2033.67
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Cleanmax_TN_Thanjavur/Survey 1/GCP6/DJI_20241226154806_0170_V.JPG": {
+        "mark": {
+            "x": 3444.4,
+            "y": 997.54
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine-III/MCDR_2024/GCP60/DJI_20240425104456_0137_V.JPG": {
+        "mark": {
+            "x": 294.54,
+            "y": 297.73
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vikram Cement Limestone Mine-III/MCDR_2024/GCP71/DJI_20240425160756_0110_V.JPG": {
+        "mark": {
+            "x": 3444.25,
+            "y": 2747.49
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM Ravirala/Forest Mine_MCDR_2024/GCP_1/DJI_20240514134849_0120_V.JPG": {
+        "mark": {
+            "x": 2096.76,
+            "y": 613.68
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco JPM Ravirala/Mines_MCDR23_dataset/GCP-11/8_DJI_0685.JPG": {
+        "mark": {
+            "x": 293.97,
+            "y": 2397.27
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM Ravirala/Forest_MCDR23_dataset/GCP-12/6_DJI_0478.JPG": {
+        "mark": {
+            "x": 2044.67,
+            "y": 2397.82
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco JPM Ravirala/Forest_MCDR23_dataset/GCP2-RRF/4_DJI_0075.JPG": {
+        "mark": {
+            "x": 339.88,
+            "y": 2369.35
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Dalla Limestone mine/March 2024/gcp51/12_DJI_20240307162654_0017_V.JPG": {
+        "mark": {
+            "x": 2477.83,
+            "y": 1284.19
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Dalla Limestone mine/March 2024/gcp27/28_DJI_20240310103813_0336_V.JPG": {
+        "mark": {
+            "x": 294.6,
+            "y": 1697.74
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Dalla Limestone mine/March 2024/gcp37/13_DJI_20240308144021_0179_V.JPG": {
+        "mark": {
+            "x": 3446.84,
+            "y": 2399.11
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Dalla Limestone mine/March 2024/gcp1/2_DJI_20240306141256_0147_V.JPG": {
+        "mark": {
+            "x": 295.47,
+            "y": 648.35
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Dalla Limestone mine/March 2024/gcp6/32_DJI_20240310134802_0005_V.JPG": {
+        "mark": {
+            "x": 705.12,
+            "y": 1655.01
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Dalla Limestone mine/MCDR_2024/GCP-61/4_5_DJI_0465.JPG": {
+        "mark": {
+            "x": 1695.99,
+            "y": 1348.62
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Dalla Limestone mine/MCDR_2024/GCP-89/29_34_DJI_0441 (2).JPG": {
+        "mark": {
+            "x": 1694.8,
+            "y": 647.92
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Prism Johnson/Survey03_Site6_Bhagai B4/GCP2E/DJI_20250414164646_0341_D.JPG": {
+        "mark": {
+            "x": 3444.44,
+            "y": 2047.61
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Prism Johnson/Survey03_Site3 2nd Band/GCP4B/DJI_20250416115421_0139_D.JPG": {
+        "mark": {
+            "x": 1695.91,
+            "y": 998.76
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri NP Mines/MCDR 2024/GCP_44/DJI_20240428132047_0109_V.JPG": {
+        "mark": {
+            "x": 3444.39,
+            "y": 2747.6
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri NP Mines/MCDR 2024/GCP_16/DJI_20240427105054_0114_V.JPG": {
+        "mark": {
+            "x": 294.22,
+            "y": 297.47
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri NP Mines/MCDR 2024/GCP_ 7/DJI_20240429102133_0304_V.JPG": {
+        "mark": {
+            "x": 2394.48,
+            "y": 2397.7
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri NP Mines/MCDR 2024/GCP_34/DJI_20240428092746_0076_V.JPG": {
+        "mark": {
+            "x": 293.9,
+            "y": 297.23
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri NP Mines/MCDR 2024/GCP_4/DJI_20240427121915_0098_V.JPG": {
+        "mark": {
+            "x": 644.09,
+            "y": 2747.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri NP Mines/MCDR 2024/GCP_2/DJI_20240427131402_0064_V.JPG": {
+        "mark": {
+            "x": 3095.15,
+            "y": 2748.2
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Dhar Dedli Block/Survey 1/GCP13/DJI_20250223115334_0361_V.JPG": {
+        "mark": {
+            "x": 3444.19,
+            "y": 2747.45
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Talli Bambhor Limestone Mine/MCDR_2023_dataset/5GCP/4_DJI_0328.JPG": {
+        "mark": {
+            "x": 3094.41,
+            "y": 2047.62
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Talli Bambhor Limestone Mine/MCDR_2023_dataset/19GC/2_DJI_0953.JPG": {
+        "mark": {
+            "x": 1409.78,
+            "y": 1648.12
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Tata RMP Noamundi - IOPP/Visit_4/OLCS GCP-10/2_DJI_0789.JPG": {
+        "mark": {
+            "x": 414.74,
+            "y": 195.74
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri KG Mines/MCDR-2024/GCP-06/4_1_DJI_0363.JPG": {
+        "mark": {
+            "x": 296.68,
+            "y": 2048.84
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Ramco Tadipatri KG Mines/MCDR-2024/GCP-10/4_1_DJI_0377.JPG": {
+        "mark": {
+            "x": 644.46,
+            "y": 997.54
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/MCDR_2024/PGCP20/DJI_20240506074135_0038_V.JPG": {
+        "mark": {
+            "x": 2043.9,
+            "y": 2747.2
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/MCDR_2024/GCP07/DJI_20240508171114_0043_V.JPG": {
+        "mark": {
+            "x": 294.72,
+            "y": 297.84
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-64/DJI_20241218160008_0322_V.JPG": {
+        "mark": {
+            "x": 2394.24,
+            "y": 2747.49
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-52/DJI_20241220103839_0020_V.JPG": {
+        "mark": {
+            "x": 643.72,
+            "y": 1697.06
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-52/DJI_20241220100629_0322_V.JPG": {
+        "mark": {
+            "x": 293.74,
+            "y": 297.07
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-04/DJI_20241219094005_0218_V.JPG": {
+        "mark": {
+            "x": 2043.87,
+            "y": 997.12
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-05/DJI_20241219095942_0137_V.JPG": {
+        "mark": {
+            "x": 3150.73,
+            "y": 2708.44
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-58/DJI_20241219160410_0049_V.JPG": {
+        "mark": {
+            "x": 295.42,
+            "y": 2398.33
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-16/DJI_20241218095737_0042_V.JPG": {
+        "mark": {
+            "x": 1738.7,
+            "y": 620.23
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/PGCP-33/DJI_20241219151435_0071_V.JPG": {
+        "mark": {
+            "x": 2395.63,
+            "y": 2748.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Paraswani Limestone Mine/Dec-2024/GCP-26/DJI_20241222092521_0163_V.JPG": {
+        "mark": {
+            "x": 1343.85,
+            "y": 2397.15
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Vedanta Goa-Road Junction/Bicholim Road Jn/GCP4/DJI_20241122174507_0333_V.JPG": {
+        "mark": {
+            "x": 295.78,
+            "y": 298.41
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/My Home - Hyma Grava/Visit_48/GCP_7/2_DJI_0976.JPG": {
+        "mark": {
+            "x": 713.23,
+            "y": 1646.61
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Hindalco/Survey_4_dataset/GCP-5/1_DJI_0005.JPG": {
+        "mark": {
+            "x": 996.18,
+            "y": 2398.66
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Hindalco/Survey_09_Feb2024/GCP 2/1_DJI_0460.JPG": {
+        "mark": {
+            "x": 1068.53,
+            "y": 2343.72
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Hindalco/Survey_09_Feb2024/GCP 2/1_DJI_0420.JPG": {
+        "mark": {
+            "x": 2494.86,
+            "y": 565.68
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Hindalco/Survey_08_Dec23/pt1/1_DJI_0683.JPG": {
+        "mark": {
+            "x": 2489.35,
+            "y": 572.19
+        },
+        "verified_shape": "Cross"
+    },
+    "test_dataset/test_dataset/Salaiya Limestone Mine/MCDR2024/GCP04/DJI_20240520150925_0094_V.JPG": {
+        "mark": {
+            "x": 3094.01,
+            "y": 2397.29
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Salaiya Limestone Mine/MCDR2024/GCP16/DJI_20240522104057_0223_V.JPG": {
+        "mark": {
+            "x": 994.07,
+            "y": 997.36
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Salaiya Limestone Mine/MCDR2024/GCP31/DJI_20240522142654_0037_V.JPG": {
+        "mark": {
+            "x": 3093.62,
+            "y": 2396.99
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Salaiya Limestone Mine/MCDR2024/GCP07/DJI_20240520103501_0172_V.JPG": {
+        "mark": {
+            "x": 1693.89,
+            "y": 2747.21
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Salaiya Limestone Mine/MCDR2024/GCP25/DJI_20240521153817_0142_V.JPG": {
+        "mark": {
+            "x": 1343.94,
+            "y": 1697.24
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/RDCW-Reddipalayam Limestone Mine/MCDR_ML1_2_3_dataset/N-1/8_DJI_0315.JPG": {
+        "mark": {
+            "x": 2746.49,
+            "y": 1348.9
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Mohanpura Limestone Mine/Mohanpura_2_MCDR2024/K2GCP5/DJI_20240501112902_0076.JPG": {
+        "mark": {
+            "x": 2401.94,
+            "y": 1350.62
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Mohanpura Limestone Mine/Mohanpura_2_MCDR2024/K2GCP5/DJI_20240501112542_0018.JPG": {
+        "mark": {
+            "x": 2747.39,
+            "y": 2399.37
+        },
+        "verified_shape": "Square"
+    },
+    "test_dataset/test_dataset/Jhajjar 2/Survey 3 - 80 mtrs/Sep GCP 1/DJI_0528.JPG": {
+        "mark": {
+            "x": 997.61,
+            "y": 299.26
+        },
+        "verified_shape": "Square"
+    }
+}
